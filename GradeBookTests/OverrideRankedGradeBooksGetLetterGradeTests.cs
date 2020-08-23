@@ -51,7 +51,7 @@ namespace GradeBookTests
                 {
                     Grades = new List<double>{ 50 }
                 },
-                new Student("tom",StudentType.Standard,EnrollmentType.Campus)
+                new Student("tom", StudentType.Standard,EnrollmentType.Campus)
                 {
                     Grades = new List<double>{ 25 }
                 },
